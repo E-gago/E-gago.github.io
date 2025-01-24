@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mi Primer Feed RSS</title>
+    <link>https://tudominio.com</link>
+    <description>Un ejemplo sencillo de feed RSS.</description>
+    <item>
+      <title>Primer artículo</title>
+      <link>https://tudominio.com/primer-articulo</link>
+      <description>Descripción del primer artículo.</description>
+      <pubDate>Mon, 01 Jan 2024 00:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Segundo artículo</title>
+      <link>https://tudominio.com/segundo-articulo</link>
+      <description>Descripción del segundo artículo.</description>
+      <pubDate>Tue, 02 Jan 2024 00:00:02 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
