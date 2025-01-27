@@ -16,5 +16,11 @@
       <description>Descripción del segundo artículo.</description>
       <pubDate>Tue, 02 Jan 2024 00:00:02 GMT</pubDate>
     </item>
+    <item>
+      <title>Nuevo artículo</title>
+      <link>https://www.ondacero.es/noticias/espana/reyes-viajan-auschwitz-80-aniversario-liberacion_202501276797166147e9a00001e9d2de.html</link>
+      <description>Descripción del segundo artículo.</description>
+      <pubDate>Tue, 27 Jan 2024 00:00:02 GMT</pubDate>
+    </item>
   </channel>
 </rss>
